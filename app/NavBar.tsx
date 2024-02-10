@@ -34,7 +34,6 @@ const NavBar = () => {
                     >
                         {link.label}
                     </Link>)}
-
             </ul>
         </nav >
     )
